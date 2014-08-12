@@ -1,0 +1,182 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	font-family: Calibri, Arial, Sans-serif;
+}
+
+a {
+	color: blue;
+}
+
+img {
+	float: left;
+	width: 550px;
+	height: 275px;
+	position: relative;
+	top: 69px;
+	width: 550px;
+}
+
+font {
+	color: #E5E500;
+}
+
+#container {
+	background-color: white;
+	width: 1120px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header1 {
+	color: white;
+	text-align: center;
+}
+
+#header2 {
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+}
+
+#order {
+	text-align: center;
+}
+
+#content {
+	padding: 0px;
+}
+
+#tSimulate {
+	position: absolute;
+	top: 130px;
+	border: 1px solid #008000;
+	background-color: #F5DEDE;
+	float: left;
+}
+
+#webfigure {
+	float: left;
+
+}
+
+#tInfo {
+	text-align: center;
+	padding: 5px;
+	border: 1px solid #008000;
+	background-color: #F5DEDE;
+	position: absolute;
+	top: 600px;
+	width: 1120px;
+}
+
+#footer {
+	clear: both;
+	background-color: #C8FFCE;
+	text-align: center;
+	width: 1120px;
+	position: absolute;
+	top: 700px;
+}
+
+.ka_Central {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	position: relative;
+	top: 215px;
+	right: 401px;
+	width: 50px;
+}
+
+.k12 {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 50px;
+	position: relative;
+	top: 211px;
+	right: 267px;
+}
+
+.k21 {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 50px;
+	position: relative;
+	top: 265px;
+	right: 322px;
+}
+
+.ka_Peripheral {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 50px;
+	position: relative;
+	top: 170px;
+	right: 237px;
+}
+
+.Km_Central {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 50px;
+	position: relative;
+	top: 300px;
+	right: 492px;
+}
+
+.Vm_Central {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 50px;
+	position: relative;
+	top: 300px;
+	right: 618px;
+}
+
+.Central {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 50px;
+	position: relative;
+	top: 240px;
+	right: 638px;
+}
+
+.Peripheral {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 50px;
+	position: relative;
+	top: 240px;
+	right: 507px;
+}
+
+.tf_sim {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 100px;
+}
+
+.y0 {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 100px;
+}
+
+.tfinal {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 100px;
+}
+
+.yini {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 100px;
+}
+
+.dose_number {
+	background-color: #FFFF88;
+	border: 1px solid #008000;
+	width: 100px;
+}
